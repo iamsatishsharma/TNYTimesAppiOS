@@ -54,6 +54,7 @@ class LoginViewController: UIViewController {
 }
 
 ```
+
 ```
 // MARK: Initializing
 lazy var topStories: topServiceViewModel = {
@@ -107,10 +108,10 @@ func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> 
         return cell
     }
    
-   ```
+ ```
     
-    ```
-// MARK: Navigate to detail screen
+```
+ // MARK: Navigate to detail screen
 
     func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
         self.view.activityStartAnimating()
@@ -123,7 +124,7 @@ func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> 
         }
     }
      
-    ```
+```
       
 # Thanks
 
