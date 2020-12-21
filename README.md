@@ -111,6 +111,7 @@ func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> 
     
     ```
 // MARK: Navigate to detail screen
+
     func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
         self.view.activityStartAnimating()
         DispatchQueue.main.asyncAfter(deadline: .now() + 1) { [weak self] in
@@ -121,9 +122,10 @@ func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> 
             
         }
     }
-      ```
+     
+    ```
       
-      # Thanks
+# Thanks
 
 [SDWebImage](https://github.com/SDWebImage/SDWebImageSwiftUI.git)
 
