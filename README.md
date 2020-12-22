@@ -14,6 +14,12 @@ https://github.com/SDWebImage/SDWebImageSwiftUI.git
 
 
 
+![Screenshot](https://github.com/sharmadevelopers/TNYTimesAppiOS/blob/main/screen_1.png?raw=true)
+
+![Screenshot](https://github.com/sharmadevelopers/TNYTimesAppiOS/blob/main/screen_2.png?raw=true)
+
+![Screenshot](https://github.com/sharmadevelopers/TNYTimesAppiOS/blob/main/screen_3.png?raw=true)
+
 
 The code would look like this:
 
