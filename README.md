@@ -12,12 +12,13 @@ https://github.com/Alamofire/Alamofire.git
 Add SDWebImage as swift package dependencies
 https://github.com/SDWebImage/SDWebImageSwiftUI.git
 
-
-
+# Login
 ![Screenshot](https://github.com/sharmadevelopers/TNYTimesAppiOS/blob/main/screen_1.png?raw=true)
 
+# Dashboard
 ![Screenshot](https://github.com/sharmadevelopers/TNYTimesAppiOS/blob/main/screen_2.png?raw=true)
 
+# Detail
 ![Screenshot](https://github.com/sharmadevelopers/TNYTimesAppiOS/blob/main/screen_3.png?raw=true)
 
 
