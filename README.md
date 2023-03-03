@@ -1,5 +1,8 @@
 # TNYTimesAppiOS
 
+# Follow and give a start :star:
+Connect with me on [Linkedin](https://www.linkedin.com/in/satishsharma1/) as well to support this project. 
+
 <h1>TNYTimesApp iOS application + MVVM + Alamofire </h1>
 
 MVVM: Model-View-ViewModel (MVVM) is a structural design pattern that separates objects into three distinct groups: Models hold application data. 
