@@ -1,6 +1,6 @@
 # TNYTimesAppiOS
 
-# Follow and give a start :star:
+# Follow and give a star :star:
 Connect with me on [Linkedin](https://www.linkedin.com/in/satishsharma1/) as well to support this project. 
 
 <h1>TNYTimesApp iOS application + MVVM + Alamofire </h1>
